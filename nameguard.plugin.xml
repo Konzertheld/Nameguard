@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>Nameguard</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<author url="http://habariproject.org/">The Habari Community</author>
+	<version>1.0</version>
+	<description><![CDATA[
+	Don't allow users to comment under a registered user's name.
+	]]></description>
+	<copyright>2013</copyright>
+	<guid>707eedc3-d6b3-43a7-90f6-7419b66eeaee</guid>
+</pluggable>
