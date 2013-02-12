@@ -1,6 +1,7 @@
 <?php
 /*
  * Nameguard Plugin
+ * Not to confuse with validate_username
  */
  
 class Nameguard extends Plugin
