@@ -1,4 +1,6 @@
 <?php
+namespace Habari;
+
 /*
  * Nameguard Plugin
  * Not to confuse with validate_username
